@@ -5,10 +5,10 @@ Code=sitemap_forums
 Name=Forums Sitemap
 Category=seo
 Description=XML sitemap for forums only
-Version=1.0.0
-Date=2026-08-04
-Author=Cotonti by webitproff
-Copyright=Copyright (c) Cotonti by webitproff 2026
+Version=1.1.1
+Date=2026-08-05
+Author=webitproff
+Copyright=Copyright (c) webitproff 2026 https://github.com/webitproff
 Notes=BSD License
 Auth_guests=R
 Lock_guests=W12345A
@@ -33,3 +33,22 @@ include_posts=55:radio::0:Include individual posts in sitemap
 ==================== */
 
 defined('COT_CODE') or die('Wrong URL');
+
+
+/**
+ * sitemap_forums.setup.php - Register data in $db_core and $db_config. Setup & Config File for the Plugin sitemap_forums
+ * Filename: sitemap_forums.setup.php
+ *
+ * sitemap_forums plugin for Cotonti v1.+, PHP 8.5+, MySQL 8.4
+ *
+ * ReadMeMore:       https://abuyfile.com/ru/market/cotonti/plugs/sitemap-forums-xml
+ * Support:          https://abuyfile.com/forums/cotonti/custom/plugs/
+ * Source:           https://github.com/webitproff/sitemap-forums-xml-cotonti
+ * 
+ * Date: Aug 5Th, 2026
+ * @package sitemap_forums
+ * @version 1.1.1
+ * @author webitproff
+ * @copyright Copyright (c) webitproff 2026 | https://github.com/webitproff/sitemap-forums-xml-cotonti
+ * @license BSD
+ */
