@@ -10,13 +10,13 @@
  * Также при необходимости добавляет правила rewrite в корневой .htaccess.
  *
  * Filename:    plugins/sitemap_forums/setup/sitemap_forums.install.php
- * Plugin URI:  https://abuyfile.com/ru/page/cotonti/plugs/sitemap-forums-xml
+ * Plugin URI:  https://abuyfile.com/ru/market/cotonti/plugs/sitemap-forums-xml
  * Support:     https://abuyfile.com/forums/cotonti/custom/plugs/
  * Source:      https://github.com/webitproff/sitemap-forums-xml-cotonti
  *
  * Date:       Aug 5, 2026
  * @package    sitemap_forums
- * @version    1.1.0
+ * @version    1.1.1
  * @author     webitproff
  * @copyright  Copyright (c) webitproff 2026 | https://github.com/webitproff/sitemap-forums-xml-cotonti
  * @license    BSD
