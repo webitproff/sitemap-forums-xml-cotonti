@@ -5,6 +5,11 @@
 Generates an XML sitemap **only for the forum** (sections, topics, and optionally individual posts).  
 Helps search engines find and index all forum pages faster.
 
+
+<img width="1536" height="1024" alt="sitemap-forums-xml-cotonti" src="https://github.com/user-attachments/assets/351d60cf-dab0-4376-b743-63eb30e9958c" />
+
+
+
 ---
 
 ## Table of Contents
