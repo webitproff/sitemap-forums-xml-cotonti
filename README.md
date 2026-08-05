@@ -1,7 +1,7 @@
 
 # Sitemap Forums — XML Sitemap for the Forums Module
 
-**A plugin for Cotonti Siena**  
+**A plugin for Cotonti**  
 Generates an XML sitemap **only for the forum** (sections, topics, and optionally individual posts).  
 Helps search engines find and index all forum pages faster.
 
