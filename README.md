@@ -40,10 +40,10 @@ Any changes or errors in one section meant having to “fix” the entire plugin
 
 To avoid this problem, it was decided to split the single plugin into specialized ones, each responsible only for its own content type:
 
-- **sitemap_forums** – XML sitemap for forums (this plugin)
-- **sitemap_pages** – XML sitemap for pages (with multilingual support)
-- **sitemap_users** – XML sitemap for user profiles
-- **sitemap_market** – XML sitemap for products (Market module)
+- [**sitemap_forums** – XML sitemap for forums (this plugin)](https://github.com/webitproff/sitemap-forums-xml-cotonti/)
+- [**sitemap_pages** – XML sitemap for pages (with multilingual support)](https://github.com/webitproff/sitemap-pages-xml-i18n-cotonti)
+- [**sitemap_users** – XML sitemap for user profiles](https://github.com/webitproff/sitemap-users-xml-cotonti)
+- [**sitemap_market** – XML sitemap for products (Market module)](https://github.com/webitproff/sitemap-market-xml-i18n-cotonti)
 
 Each plugin is completely autonomous, configured separately, and does not affect the others.  
 This approach simplifies maintenance and allows flexible management of site maps.
@@ -463,10 +463,10 @@ ___
 
 Чтобы избежать этой проблемы, было решено разбить единый плагин на специализированные, каждый из которых отвечает только за свой тип контента:
 
-- **sitemap_forums** – XML-карта форумов (этот плагин)
-- **sitemap_pages** – XML-карта страниц (с мультиязычной поддержкой)
-- **sitemap_users** – XML-карта профилей пользователей
-- **sitemap_market** – XML-карта товаров (модуль Market)
+- [**sitemap_forums** – XML-карта форумов (этот плагин)](https://github.com/webitproff/sitemap-forums-xml-cotonti/)
+- [**sitemap_pages** – XML-карта страниц (с мультиязычной поддержкой)](https://github.com/webitproff/sitemap-pages-xml-i18n-cotonti)
+- [**sitemap_users** – XML-карта профилей пользователей](https://github.com/webitproff/sitemap-users-xml-cotonti)
+- [**sitemap_market** – XML-карта товаров (модуль Market)](https://github.com/webitproff/sitemap-market-xml-i18n-cotonti)
 
 Каждый плагин полностью автономен, настраивается отдельно и не влияет на работу других.  
 Такой подход упрощает поддержку и позволяет гибко управлять картами сайта.
